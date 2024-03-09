@@ -12,13 +12,4 @@
 
  - 合集版插件：[ShadowSocksR Plus+](https://github.com/fw876/helloworld.git)、[PassWall](https://github.com/xiaorouji/openwrt-passwall.git)、[OpenClash](https://github.com/vernesong/OpenClash.git.git)
 
-| 管理地址  | 默认账号 | 默认密码 |
-| ---- | ---- | ---- |
-| 192.168.2.100 | root | 无密码 |
 
-## 固件下载:   [Releases](https://github.com/BTC-LaoMa/OpenWrt-Mini/releases) 
-
-## 固件截图
-
-![avatar](https://github.com/BTC-LaoMa/OpenWrt-Mini/blob/main/jpg/OpenWrt-1.jpg)
-![avatar](https://github.com/BTC-LaoMa/OpenWrt-Mini/blob/main/jpg/OpenWrt-2.jpg)
