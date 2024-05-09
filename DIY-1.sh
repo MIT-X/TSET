@@ -20,10 +20,3 @@ sed -i '$a\src-git openclash https://github.com/vernesong/OpenClash' ./feeds.con
 # 6-添加 PassWall 插件
 # echo "src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main" >> "feeds.conf.default"
 # echo "src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main" >> "feeds.conf.default"
-
-# 7-添加 MosDNS 插件
-# find ./ | grep Makefile | grep v2ray-geodata | xargs rm -f
-# find ./ | grep Makefile | grep mosdns | xargs rm -f
-
-# git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
-# git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
